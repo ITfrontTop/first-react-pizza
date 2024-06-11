@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Наслаждение",
+      "price": 300,
+      "ingredients": ["салями", "руколла", "помидоры", "оливки"],
+      "image": "https://img2.zakaz.ua/upload.011a3061f7d31094ed66d275791221f6.350x350.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "name": "Такос",
+      "price": 280,
+      "ingredients": ["острый перец", "лепёшки", "фара"],
+      "image": "https://cdn1.pokupon.ua/uploaded/new_campaign_pictures/883769/data/main720x340/51321671_2258286281126799_1804689006592524288_n.jpg?1699365481",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "name": "Аццки острая",
+      "price": 320,
+      "ingredients": ["острый соус", "грибы", "помидоры", "оливки"],
+      "image": "https://img.freepik.com/free-photo/top-view-of-pepperoni-pizza-sliced-into-six-slices_141793-2157.jpg",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "name": "Наслаждение",
+      "price": 300,
+      "ingredients": ["салями", "руколла", "помидоры", "оливки"],
+      "image": "https://img2.zakaz.ua/upload.011a3061f7d31094ed66d275791221f6.350x350.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "name": "Такос",
+      "price": 280,
+      "ingredients": ["острый перец", "лепёшки", "фара"],
+      "image": "https://cdn1.pokupon.ua/uploaded/new_campaign_pictures/883769/data/main720x340/51321671_2258286281126799_1804689006592524288_n.jpg?1699365481",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "name": "Аццки острая",
+      "price": 320,
+      "ingredients": ["острый соус", "грибы", "помидоры", "оливки"],
+      "image": "https://img.freepik.com/free-photo/top-view-of-pepperoni-pizza-sliced-into-six-slices_141793-2157.jpg",
+      "rating": 4.9
+    },
+    {
+      "id": 7,
+      "name": "Наслаждение",
+      "price": 300,
+      "ingredients": ["салями", "руколла", "помидоры", "оливки"],
+      "image": "https://img2.zakaz.ua/upload.011a3061f7d31094ed66d275791221f6.350x350.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "name": "Такос",
+      "price": 280,
+      "ingredients": ["острый перец", "лепёшки", "фара"],
+      "image": "https://cdn1.pokupon.ua/uploaded/new_campaign_pictures/883769/data/main720x340/51321671_2258286281126799_1804689006592524288_n.jpg?1699365481",
+      "rating": 4.8
+    },
+    {
+      "id": 9,
+      "name": "Аццки острая",
+      "price": 320,
+      "ingredients": ["острый соус", "грибы", "помидоры", "оливки"],
+      "image": "https://img.freepik.com/free-photo/top-view-of-pepperoni-pizza-sliced-into-six-slices_141793-2157.jpg",
+      "rating": 4.9
+    }
+  ]
+}
